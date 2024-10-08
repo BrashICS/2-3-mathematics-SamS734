@@ -15,7 +15,7 @@ let random_number = Math.random() * 100
 random_number = Math.round(random_number)
 
 // Output the result usijng a new way to insert a variable into a string (called a template)
-console.log(`I generated the number ${random_number}`)
+console.log(`I generated the number ${random_number}.`)
 
 
 // ***  Your code goes below  ***
@@ -63,4 +63,4 @@ let height = Math.round(Math.random() * 10)
 
 let cylinder_volume = Math.round(Math.PI * (radius**2) * height) // The equation for the volume of a cylinder is π(r^2)h
 
-console.log(`The volume of my random cylinder is ${cylinder_volume}`)
+console.log(`The volume of my random cylinder is ${cylinder_volume}.`)
