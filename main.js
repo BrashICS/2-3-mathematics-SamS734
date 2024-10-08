@@ -57,7 +57,7 @@ console.log(`The slope from point A(-4, 5) to point B(6, 0) is ${m}.`)
 
 // TASK PART 5
 
-let radius = Math.round(Math.random() * 10) // Random number between 0-10
+let radius = Math.round(Math.random() * 10) // Random rounded number between 0-10
 
 let height = Math.round(Math.random() * 10)
 
