@@ -45,7 +45,7 @@ console.log(celsius);
 
 // TASK PART 3
 
-console.log(`${fahrenheit} degrees Fahrenheit is ${celsius} degrees celsius.`) // Shows the fahrenheit and celsius values
+console.log(`${fahrenheit} degrees Fahrenheit is ${celsius} degrees Celsius.`) // Shows the fahrenheit and celsius values
 
 
 // TASK PART 4
